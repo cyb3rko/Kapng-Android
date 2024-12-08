@@ -48,14 +48,14 @@ output.close()
 ```
 
 # How to install :
-## Via jitpack   [![](https://jitpack.io/v/oupson/Kapng-Android.svg)](https://jitpack.io/#oupson/Kapng-Android)
+## Via jitpack   [![](https://jitpack.io/v/cyb3rko/Kapng-Android.svg)](https://jitpack.io/#oupson/Kapng-Android)
 ```gradle
 repositories {
   maven { url "https://jitpack.io" }
  }
  
  dependencies {
-  implementation 'com.github.oupson:Kapng-Android:1.0.12'
+  implementation 'com.github.cyb3rko:Kapng-Android:1.0.12'
  }
  ```
  
