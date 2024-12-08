@@ -28,6 +28,9 @@ android {
         jvmTarget = '1.8'
     }
 
+    buildFeatures {
+        buildConfig = true
+    }
     namespace 'oupson.apng'
 }
 
