@@ -55,7 +55,7 @@ repositories {
  }
  
  dependencies {
-  implementation 'com.github.oupson:Kapng-Android:1.0.11'
+  implementation 'com.github.oupson:Kapng-Android:1.0.12'
  }
  ```
  
